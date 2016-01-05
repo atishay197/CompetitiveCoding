@@ -1,0 +1,5 @@
+
+num count : 11
+char count : 24
+word count : 11
+line count : 3
